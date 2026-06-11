@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-direct-debit-mandate
+description: "BIAN Service Domain: Direct Debit Mandate (Manage pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Payments"
+  bian/asset-type: "Direct Debit Mandate"
+  bian/control-record: "Direct Debit Mandate Management Plan"
